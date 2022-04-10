@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="enter_your_task_type">Enter your task type:</string>
+</resources>
